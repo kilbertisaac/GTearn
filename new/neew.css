@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital@1&family=Splash&display=swap');
+/*#saptune
+ {
+    color: blueviolet;
+ }
+*/
+button
+{
+    color:red;
+}
+*
+{
+
+}
+ .rev button
+
+ {
+    color: darkblue;
+ }
+ .saptune
+ {
+    color:green;
+ }
+ .kil
+ {
+    background:rgba(red, green, blue, alpha);
+    backdrop-filter: saturate(180%) blur(.9px);
+ }
+ h1
+ {
+    color:darkred;
+    font-family: 'Splash', cursive;
+
+ }
+
+
+.vender
+{
+    color: whitesmoke;
+}
+body
+{
+ height: 100%;
+ width: 100%;
+ display: flex;
+ justify-content: center;
+ padding-top: 50px;
+
+
+}
+form
+{
+
+ width: 25rem;
+ height:25rem;
+ 
+ background: rgba(225, 225, 225, 0.09);
+ box-shadow: 0 8px 30px 0 rgba(31,38,135,.37);
+ border-radius: 30px ;
+ letter-spacing: 4px;
+ font-family: 'Splash', cursive;
+ padding-left: 10%;
+  
+}
+.inner_data
+{
+   border: none;
+   border-bottom: 1px solid silver;
+   background: transparent;
+   font-size: 15px;
+   color: aliceblue;
+}
+.space
+{
+   padding: 5px;
+}
